@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "489589119848-65tcmehdih1qjl9k638m2nncsp6srq0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifmessagefirebase",
+            "certificate_hash": "7aabecd26bbb9b4d4d6c306959661ba5e054580f"
+          }
+        },
+        {
           "client_id": "489589119848-5c26qq8nevidqfjooicne5hd2t8gcc9p.apps.googleusercontent.com",
           "client_type": 3
         }
